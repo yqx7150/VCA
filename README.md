@@ -1,7 +1,8 @@
 #VCA    
 Virtual coil augmentation for MR coil extrapoltion via deep learning    
 C. Yang, X. Liao, L. Zhang, M. Zhang, Q. Liu    
-Magnetic Resonance Imaging 95, 1-11, 2023
+Magnetic Resonance Imaging 95, 1-11, 2023   
+https://www.sciencedirect.com/science/article/pii/S0730725X22001722   
 
 Magnetic resonance imaging (MRI) is a widely used medical imaging modality. However, due to the limitations in hardware, scan time, and throughput, it is often clinically challenging to obtain high-quality MR images. In this article, we propose a method of using artificial intelligence to expand the coils to achieve the goal of generating the virtual coils. The main characteristic of our work is utilizing dummy variable technology to expand/extrapolate the receive coils in both image and k-space domains. The high-dimensional information formed by coil expansion is used as the prior information to improve the reconstruction performance of parallel imaging. Two main components are incorporated into the network design, namely variable augmentation technology and sum of squares (SOS) objective function. Variable augmentation provides the network with more high-dimensional prior information, which is helpful for the network to extract the deep feature information of the data. The SOS objective function is employed to solve the deficiency of k-space data training while speeding up convergence. Experimental results demonstrated its great potentials in accelerating parallel imaging reconstruction.    
       
