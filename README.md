@@ -1,4 +1,4 @@
-#VCA
+#VCA    
 Virtual coil augmentation for MR coil extrapoltion via deep learning    
 C. Yang, X. Liao, L. Zhang, M. Zhang, Q. Liu    
 Magnetic Resonance Imaging 95, 1-11, 2023
